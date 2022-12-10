@@ -5,3 +5,4 @@
 - Bautista Zapata
 - Tomas Premaries
 - Mariano Herrlein
+- Rodrigo Fagundez
